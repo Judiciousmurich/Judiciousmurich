@@ -3,15 +3,13 @@
 
 <!-- ![About Me](https://img.shields.io/badge/About-Me-purple?style=for-the-badge) -->
 
-My name is Amos Mwongela,
-and i am a talented full-stack software engineer with a passion for creating elegant, robust, and scalable applications.<br>
-My work is driven by a desire to create user-friendly and intuitive interfaces that enhance the user experience.
+I'm Judith Muthui, a skilled full-stack software engineer passionate about crafting elegant, user-friendly applications..<br>
+for exceptional user experiences. 
 
-I’m currently learning `Redux Toolkit`.
 
 
 ### 💻 SKILL SET:
-`HTML5`, `CSS3`, `SASS`, `Bootstrap`,`Tailwind CSS`, `Javascript`, `Typescript`, `React`, `Angular`, `Vue`,`Sveltekit`, `NodeJs`, `NestJs`, `PHP`,`Python`, `MsSQL`, `MySQL`,`Firebase` & `Mongodb`.
+`HTML5`, `CSS3`, `Tailwind CSS`, `Javascript`, `Typescript`, `React`, `Redux`, `NodeJs`,  `MsSQL`, `MySQL`,.
 
 
 ### 📊 GITHUB STATS:
@@ -25,10 +23,10 @@ I’m currently learning `Redux Toolkit`.
   </table>
 </center>
 
-<!-- <p align="center">
-  <a href="https://github.com/mwongess?tab=followers">
-    <img src="https://img.shields.io/github/followers/mwongess?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+<p align="center">
+  <a href="https://github.com/Judiciousmurich?tab=followers">
+    <img src="https://img.shields.io/github/followers/Judiciousmurich?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-</p> -->
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20FF61&width=435&lines=Thank+you+for+viewing+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20FF61&width=435&lines=Welcome+to+my+my+GitHub+profile! )](https://git.io/typing-svg)
