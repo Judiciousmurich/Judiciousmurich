@@ -28,7 +28,7 @@ for exceptional user experiences.
     <img src="https://img.shields.io/github/followers/Judiciousmurich?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=candrakriswinarto&label=Profile%20views&color=0e75b6&style=flat" alt="candrakriswinarto" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?usernamejudiciousmurich&label=Profile%20views&color=0e75b6&style=flat" alt="judiciousmurich" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
