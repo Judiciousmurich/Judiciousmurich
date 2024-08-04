@@ -31,10 +31,6 @@ for exceptional user experiences.
 
 
 
-<p align="">
-  <a href="https://github.com/Judiciousmurich?tab=profile views">
-    <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-  </a>
 
 
 
