@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20FF61&width=435&lines=✅+Welcome+to+my+GitHub+profile! )](https://git.io/typing-svg)
 
-![About Me](https://img.shields.io/badge/About-Me-blue?style=for-the-badge)
+![About Me](https://img.shields.io/badge/About-Me-green?style=for-the-badge)
 
 I'm Judith Muthui, a skilled full-stack software engineer passionate about crafting elegant, user-friendly applications..<br>
 for exceptional user experiences. 
