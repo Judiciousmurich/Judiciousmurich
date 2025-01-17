@@ -22,6 +22,14 @@ HTML5, CSS3, Tailwind CSS, Javascript, React(Next.js), Redux, Typescript, NodeJs
   </table>
 </center>
 
+
+
+<p align="">
+  <a href="https://github.com/Judiciousmurich?tab=followers">
+    <img src="https://img.shields.io/github/followers/Judiciousmurich?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
+
 ### 🌐 Socials:
 <div align="left">
  
@@ -32,9 +40,3 @@ HTML5, CSS3, Tailwind CSS, Javascript, React(Next.js), Redux, Typescript, NodeJs
     />
   </a>
 </div>
-
-<p align="">
-  <a href="https://github.com/Judiciousmurich?tab=followers">
-    <img src="https://img.shields.io/github/followers/Judiciousmurich?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-</p>
