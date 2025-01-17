@@ -22,6 +22,17 @@ HTML5, CSS3, Tailwind CSS, Javascript, React(Next.js), Redux, Typescript, NodeJs
   </table>
 </center>
 
+### 🌐 Socials:
+<div align="left">
+ 
+  <a href="https://www.linkedin.com/in/judith-muthui-16b535263/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+</div>
+
 <p align="">
   <a href="https://github.com/Judiciousmurich?tab=followers">
     <img src="https://img.shields.io/github/followers/Judiciousmurich?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
