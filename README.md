@@ -30,13 +30,9 @@ HTML5, CSS3, Tailwind CSS, Javascript, React(Next.js), Redux, Typescript, NodeJs
   </a>
 </p>
 
-### 🌐 Socials:
-<div align="left">
- 
-  <a href="https://www.linkedin.com/in/judith-muthui-16b535263/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-</div>
+ ## 🌐 Socials:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/judith-muthui-16b535263)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://judith-muthui-portfolio.netlify.app/)
+
