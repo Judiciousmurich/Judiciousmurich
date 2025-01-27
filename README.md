@@ -32,7 +32,6 @@ for exceptional user experiences.
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Judiciousmurich&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
  ## 🌐 Socials:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judith-muthui-16b535263)
