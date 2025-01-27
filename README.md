@@ -30,6 +30,10 @@ for exceptional user experiences.
   </a>
 </p>
 
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Judiciousmurich&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
  ## 🌐 Socials:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judith-muthui-16b535263)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
