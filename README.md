@@ -8,7 +8,7 @@ for exceptional user experiences.
 
 
 ### 💻 SKILL SET:
-`HTML5`, `CSS3`, `Tailwind CSS`, `Javascript`, `React(Next.js)`, `Redux`, `vue3`, `Typescript`, `NodeJs`, `Python`,  `PHP (Laravel 11)`, `MsSQL`, `MySQL`,`PostgreSQL`,`MongoDB`.
+`HTML5`, `CSS3`, `Tailwind CSS`, `Javascript`, `React(Next.js)`, `Redux`, `vue3`, `Typescript`, `NodeJs`, `Python`,  `PHP (Laravel 11)`, `MsSQL`, `MySQL`,`PostgreSQL`,`MongoDB` `Sequelize`.
 
 
 ### 📊 GITHUB STATS:
